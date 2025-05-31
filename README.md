@@ -9,4 +9,4 @@
 
 ## Kelemahan
 * Hanya bisa sesama wifi
-* Kecepatan Upload / Download file tergantung kecepatan router / wifi
+* Kecepatan Upload / Download file tergantung kecepatan router / wifi (Biasanya 1-10 MBps/detik)
