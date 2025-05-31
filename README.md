@@ -12,4 +12,4 @@
 * Kecepatan Upload / Download file tergantung kecepatan router / wifi (Biasanya 1-10 MBps/detik)
 
 ## Tampilan saat di run
-![Gambar saat di run](gambar.jpg)
+![Gambar saat di run](gambar.png)
