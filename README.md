@@ -1,5 +1,5 @@
 ## Program apa ini
-* Aplikasi Share IT buatan sendiri yang diprogram menggunakan nodejs tapi dikemas menjadi ShareIksun.exe
+* Aplikasi ShareIT buatan sendiri yang diprogram menggunakan nodejs tapi dikemas menjadi ShareIksun.exe
 
 ## Fungsi
 * Bisa mengirim file yang akan disimpan ke folder server
