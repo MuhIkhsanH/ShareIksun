@@ -8,8 +8,8 @@ const QRCode = require('qrcode-terminal');
 const app = express();
 const PORT = 5000;
 const SERVER_FOLDER = 'server_folder';
-const DELETE_PASSWORD = 'iksun*';
-const SETTINGS_PASSWORD = 'iksun*';
+const DELETE_PASSWORD = 'iksun*'; // SETTING BEBAS COY
+const SETTINGS_PASSWORD = 'iksun*'; // JANGAN NIRU :v
 const SETTINGS_FILE = 'settings.json';
 
 if (!fs.existsSync(SERVER_FOLDER)) fs.mkdirSync(SERVER_FOLDER);
